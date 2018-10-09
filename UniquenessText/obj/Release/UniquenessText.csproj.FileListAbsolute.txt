@@ -1,0 +1,10 @@
+c:\users\snoop dogg\source\repos\UniquenessText\UniquenessText\bin\Release\UniquenessText.exe.config
+c:\users\snoop dogg\source\repos\UniquenessText\UniquenessText\bin\Release\UniquenessText.exe
+c:\users\snoop dogg\source\repos\UniquenessText\UniquenessText\bin\Release\UniquenessText.pdb
+c:\users\snoop dogg\source\repos\UniquenessText\UniquenessText\obj\Release\UniquenessText.Form.resources
+c:\users\snoop dogg\source\repos\UniquenessText\UniquenessText\obj\Release\UniquenessText.Properties.Resources.resources
+c:\users\snoop dogg\source\repos\UniquenessText\UniquenessText\obj\Release\UniquenessText.csproj.GenerateResource.cache
+c:\users\snoop dogg\source\repos\UniquenessText\UniquenessText\obj\Release\UniquenessText.csproj.CoreCompileInputs.cache
+c:\users\snoop dogg\source\repos\UniquenessText\UniquenessText\obj\Release\UniquenessText.exe
+c:\users\snoop dogg\source\repos\UniquenessText\UniquenessText\obj\Release\UniquenessText.pdb
+C:\Users\Snoop Dogg\source\repos\UniquenessText\UniquenessText\obj\Release\UniquenessText.csprojAssemblyReference.cache
